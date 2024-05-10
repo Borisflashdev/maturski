@@ -1,0 +1,20 @@
+1, Meditacije, Marko Aurelije, 1, 304, 1
+2, Pisma Prijatelju, Seneka, 1, 256, 0
+3, Razgovori, Epiktet, 1, 256, 0
+4, Etika, Benedikt de Spinoza, 1, 230, 0
+5, Kritika cistog uma, Immanuel Kant, 2, 792, 0
+6, Osnove metafizike morala, Immanuel Kant, 1, 84, 0
+7, Izvan Dobra i Zla, Fridrih Nice, 1, 240, 0
+8, Tako je Govorio Zaratustra, Fridrih Nice, 1, 352, 1
+9, Vesela Nauka, Fridrih Nice, 3, 400, 0
+10, Rodjenje Tragedije, Fridrih Nice, 4, 208, 0
+11, Antihrist, Fridrih Nice, 3, 144, 0
+12, Volja za Moc, Fridrih Nice, 3, 384, 0
+13, Genealogija Morala, Fridrih Nice, 1, 208, 0
+14, Sumrak Idola, Fridrih Nice, 3, 160, 0
+15, Evo coveka, Fridrih Nice, 5, 208, 0
+16, Tako je Govorio Zaratustra, Fridrih Nice, 3, 352, 0
+17, Kritika Suda, Immanuel Kant, 4, 416, 0
+18, Metafizika Morala, Immanuel Kant, 3, 296, 0
+19, Osnove Metafizike Morala, Immanuel Kant, 1, 162, 0
+20, Umece ratovanja, Sun Cu, 1, 139, 0
